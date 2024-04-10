@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chakali Ranjitha</h1>
+<h1 align="center">Hi 👋, I'm C Ranjitha</h1>
 <h3 align="center">Software Test Engineer</h3>
 
 - 🔭 I’m currently working on **Manual Testing**
